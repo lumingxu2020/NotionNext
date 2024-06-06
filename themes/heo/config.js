@@ -107,7 +107,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '在线绘画',
   HEO_SOCIAL_CARD_TITLE_2: '发挥你的想象力',
   HEO_SOCIAL_CARD_TITLE_3: '点击进入绘图空间',
-  HEO_SOCIAL_CARD_URL: 'https://mj.moming.chat',
+  HEO_SOCIAL_CARD_URL: 'http://mj.moming.chat',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
